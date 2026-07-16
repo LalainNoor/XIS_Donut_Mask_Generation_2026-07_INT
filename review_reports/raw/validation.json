@@ -1,0 +1,52 @@
+{
+    "status": "PASS",
+    "summary": {
+        "expected_outputs": 7,
+        "validated_outputs": 7,
+        "missing_outputs": 0
+    },
+    "outputs": {
+        "rough_masks": {
+            "exists": true,
+            "status": "PASS",
+            "file_count": 10,
+            "path": "E:\\XIS_Donut_Mask_Generation_2026-07_INT\\rough_masks"
+        },
+        "refined_masks": {
+            "exists": true,
+            "status": "PASS",
+            "file_count": 10,
+            "path": "E:\\XIS_Donut_Mask_Generation_2026-07_INT\\refined_masks"
+        },
+        "completed_masks": {
+            "exists": true,
+            "status": "PASS",
+            "file_count": 10,
+            "path": "E:\\XIS_Donut_Mask_Generation_2026-07_INT\\completed_masks"
+        },
+        "overlays": {
+            "exists": true,
+            "status": "PASS",
+            "file_count": 10,
+            "path": "E:\\XIS_Donut_Mask_Generation_2026-07_INT\\overlays"
+        },
+        "overlays_completed": {
+            "exists": true,
+            "status": "PASS",
+            "file_count": 10,
+            "path": "E:\\XIS_Donut_Mask_Generation_2026-07_INT\\overlays_completed"
+        },
+        "visualizations": {
+            "exists": true,
+            "status": "PASS",
+            "file_count": 10,
+            "path": "E:\\XIS_Donut_Mask_Generation_2026-07_INT\\visualizations"
+        },
+        "results": {
+            "exists": true,
+            "status": "PASS",
+            "file_count": 50,
+            "path": "E:\\XIS_Donut_Mask_Generation_2026-07_INT\\results"
+        }
+    }
+}

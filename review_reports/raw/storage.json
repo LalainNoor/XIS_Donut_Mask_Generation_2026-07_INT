@@ -1,0 +1,45 @@
+{
+    "status": "PASS",
+    "directories": {
+        "rough_masks": {
+            "before_mb": 0.29,
+            "after_mb": 0.29,
+            "growth_mb": 0.0
+        },
+        "refined_masks": {
+            "before_mb": 0.28,
+            "after_mb": 0.28,
+            "growth_mb": 0.0
+        },
+        "completed_masks": {
+            "before_mb": 0.28,
+            "after_mb": 0.28,
+            "growth_mb": 0.0
+        },
+        "overlays": {
+            "before_mb": 29.73,
+            "after_mb": 29.73,
+            "growth_mb": 0.0
+        },
+        "overlays_completed": {
+            "before_mb": 29.7,
+            "after_mb": 29.7,
+            "growth_mb": 0.0
+        },
+        "visualizations": {
+            "before_mb": 61.33,
+            "after_mb": 61.33,
+            "growth_mb": 0.0
+        },
+        "results": {
+            "before_mb": 10.99,
+            "after_mb": 10.99,
+            "growth_mb": 0.0
+        }
+    },
+    "summary": {
+        "before_mb": 132.61,
+        "after_mb": 132.61,
+        "growth_mb": 0.0
+    }
+}

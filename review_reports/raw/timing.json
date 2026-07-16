@@ -1,0 +1,17 @@
+{
+    "status": "PASS",
+    "stages": {
+        "Generate Rough Masks": {
+            "seconds": 4.296
+        },
+        "Refine Masks": {
+            "seconds": 8.218
+        },
+        "Generate Visualizations": {
+            "seconds": 9.276
+        }
+    },
+    "summary": {
+        "total_seconds": 21.791
+    }
+}

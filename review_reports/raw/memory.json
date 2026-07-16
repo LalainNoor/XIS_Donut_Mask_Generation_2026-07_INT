@@ -1,0 +1,9 @@
+{
+    "sample_count": 22,
+    "rss_start_mb": 40.78,
+    "rss_end_mb": 40.88,
+    "rss_peak_mb": 40.88,
+    "rss_average_mb": 40.87,
+    "python_heap_current_mb": 0.03,
+    "python_heap_peak_mb": 0.17
+}
