@@ -12,8 +12,6 @@
 - **Python:** 3.11.6
 - **OpenCV:** 5.0.0.93
 - **NumPy:** 2.4.6
-- **GPU:** GeForce 940MX
-- **GPU Memory:** 1.0 GB
 
 ## Review Summary
 
